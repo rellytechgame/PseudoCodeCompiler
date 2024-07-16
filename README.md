@@ -1,5 +1,5 @@
 ````markdown
-# Proyecto #OceanStreet
+# Proyecto #PseudocodigoCompiler
 
 ## Descripción
 Bienvenido al repositorio oficial del proyecto #OceanStreet, una marca de gorras de alta calidad enfocada en el mercado panameño. Este proyecto incluye el desarrollo de una plataforma de comercio electrónico y gestión de inventario.
