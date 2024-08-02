@@ -1,4 +1,3 @@
-````markdown
 # Proyecto #PseudocodigoCompiler
 
 ## Descripción
