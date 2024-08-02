@@ -1,18 +1,17 @@
 # Proyecto #PseudocodigoCompiler
 
 ## Descripción
-Bienvenido al repositorio oficial del proyecto #OceanStreet, una marca de gorras de alta calidad enfocada en el mercado panameño. Este proyecto incluye el desarrollo de una plataforma de comercio electrónico y gestión de inventario.
+Bienvenido al repositorio oficial del proyecto #PseudocodigoCompiler, una marca de gorras de alta calidad enfocada en el mercado panameño. Este proyecto incluye el desarrollo de una plataforma de comercio electrónico y gestión de inventario.
 
 ## Funcionalidades
-- **Gestión de Pedidos:** Implementación de un sistema ETL para la gestión automatizada de pedidos desde la plataforma VTEX.
 - **Frontend Avanzado:** Interfaz de usuario desarrollada con React.js para proporcionar una experiencia de usuario fluida e intuitiva.
 - **Backend Eficiente:** Utilización de C# con .NET Minimal API para un backend rápido y escalable.
 
 ## Tecnologías Utilizadas
 - **Frontend:** React.js, TypeScript, CSS avanzado
 - **Backend:** C#, .NET, Minimal API
-- **Base de Datos:** MongoDB, Firestore
-- **Otros:** Git, GitHub Actions, Docker
+- **Base de Datos:** none
+- **Otros:** Git, GitHub Actions, Docker (Optional)
 
 ## Instalación
 Para ejecutar este proyecto localmente, sigue estos pasos:
