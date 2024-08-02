@@ -34,7 +34,7 @@ cd backend
 dotnet run
 
 Contribución
-¡Contribuciones son bienvenidas! Si quieres mejorar #OceanStreet, sigue estos pasos:
+¡Contribuciones son bienvenidas! Si quieres mejorar #PseudocodigoCompiler, sigue estos pasos:
 
 Realiza un fork del repositorio.
 Crea una nueva rama (git checkout -b feature/mejora-increible).
