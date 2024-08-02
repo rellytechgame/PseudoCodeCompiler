@@ -1,7 +1,7 @@
 # Proyecto #PseudocodigoCompiler
 
 ## Descripción
-Bienvenido al repositorio oficial del proyecto #PseudocodigoCompiler, una marca de gorras de alta calidad enfocada en el mercado panameño. Este proyecto incluye el desarrollo de una plataforma de comercio electrónico y gestión de inventario.
+Bienvenido al repositorio oficial del proyecto #PseudocodigoCompiler, un sistema OpenSource para aprender PseudoCodigo y sea compilado, brindando los resultados y especiicando errores en caso de haberlos en el algoritmo.
 
 ## Funcionalidades
 - **Frontend Avanzado:** Interfaz de usuario desarrollada con React.js para proporcionar una experiencia de usuario fluida e intuitiva.
